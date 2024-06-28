@@ -1,0 +1,1 @@
+  return (sumtree(root->left)+sumtree(root->right)+root->val);
